@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "EKqgqkHQmmWeDWT+UdeYw5XLb8mdHS96jL7KD/iDaTzdYc/OsSSFfL2RUjMqbCEOMVCaQ1tHezh4smOAxgP3aA==",
+  "success": true,
+  "projectFilePath": "C:\\MyStuff\\new\\FruitApi\\src\\FruitApi.Api\\FruitApi.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\YogitaNonAdmin\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\YogitaNonAdmin\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\YogitaNonAdmin\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\YogitaNonAdmin\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\YogitaNonAdmin\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\YogitaNonAdmin\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
