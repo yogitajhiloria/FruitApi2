@@ -4,8 +4,8 @@ namespace FruitApi.Bussiness
     {
         IApiService AddAdditionalHeaders(Dictionary<string, string> headers);
         IApiService Configure(string baseurl);
-        IApiService UpdateUrl(string subUrl);
-        Task<T> GetData<T>();
-        Task<Response> PostData<Request,Response>(Request request);
+        
+        Task<T> GetData<T>(string subUrl, CancellationToken cancellationToken);
+        Task<Response> PostData<Request,Response>(Request request, string subUrl, CancellationToken cancellationToken);
     }
 }

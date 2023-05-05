@@ -7,6 +7,14 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Core\ExceptionHandler.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Core\ExceptionHandler.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
   </ItemGroup>
 
